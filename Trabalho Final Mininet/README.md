@@ -28,6 +28,14 @@
 
 ![ifconfigh2](h2ifconfig.png)
 
+**IfConfig s1:**
+
+![ifconfigh1](s1ifconfig.png)
+
+**IfConfig s2:**
+
+![ifconfigs2](s2ifconfig.png)
+
 
 **Nodes:** 
 

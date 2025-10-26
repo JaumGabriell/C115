@@ -16,6 +16,8 @@
 
 ![Topologia arvore com profundidade 3 e ramificação 5 com Bandwidth de 30Mbps](sudoMN30.png)
 
+---
+
 ##  Informações das interfaces
 
 **IfConfig h1:**
@@ -43,6 +45,8 @@
 
 ![net1](net2.png)
 
+---
+
 ##  Testes de Ping
 
 **PingAll:** 
@@ -58,6 +62,8 @@
 **Teste de ping h1 h2:**
 
 ![h1pingh2](h1pingh2.png)
+
+---
 
 ## Testes Iperf
 

@@ -49,3 +49,14 @@
 **Teste de ping h1 h2:**
 
 ![h1pingh2](h1pingh2.png)
+
+## Testes Iperf
+
+
+**Teste iperf 30:**
+
+![iperf30](iperf30.png)
+
+**Teste iperf 40:**
+
+![iperf40](iperf40.png)

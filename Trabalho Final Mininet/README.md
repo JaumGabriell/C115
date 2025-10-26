@@ -18,7 +18,34 @@
 
 ##  Informações das interfaces
 
+**Nodes:** 
+
+![nodes](nodes.png)
+
 **Dump:** 
 
-![Topologia arvore com profundidade 3 e ramificação 5 com Bandwidth de 30Mbps](dump1.png)
+![dump1](dump1.png)
 
+![dump2](dump2.png)
+
+**Net:** 
+
+![net1](net1.png)
+
+![net1](net2.png)
+
+##  Testes de Ping
+
+**PingAll:** 
+
+![pingall](pingall.png)
+
+
+**TCPDUMP:**
+
+![tcpdump](tcpdump.png)
+
+
+**Teste de ping h1 h2:**
+
+![h1pingh2](h1pingh2.png)

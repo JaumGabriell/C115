@@ -18,6 +18,15 @@
 
 ##  Informações das interfaces
 
+**IfConfig h1:**
+
+![ifconfigh1](h1ifconfig.png)
+
+**IfConfig h2:**
+
+![ifconfigh2](h2ifconfig.png)
+
+
 **Nodes:** 
 
 ![nodes](nodes.png)

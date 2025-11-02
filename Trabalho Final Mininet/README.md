@@ -93,6 +93,43 @@
 
 ![topologia](topologia.png)
 
-**no arquivo topo-5hosts-3sw.py você encontrará o código que gerou a topografia acima**
+**no arquivo topo-5hosts-3sw.py você encontrará esse código código que gerou a topografia acima**
 
 ![Código](Código.png)
+
+---
+## Configuração do controlador
+
+![print1-pox-controlador](print1-pox-controlador.png)
+
+---
+
+## Topologia e Testes
+
+![print2-IniciandoTopo](print2-IniciandoTopo.png)
+
+**Pingall**
+
+![print3-Pingall](print3-Pingall.png)
+
+**Dump**
+
+![print4-Dump](print4-Dump.png)
+
+**h1 - h5**
+
+![print5-h1](print5-h1.png)
+
+![print5-part2](print5-part2.png)
+
+![print5-part3](print5-part3.png)
+
+**s1**
+
+![print6-part1](print6-part1.png)
+
+![print6-part2](print6-part2.png)
+
+## Xming
+
+![print7](print7.png)
